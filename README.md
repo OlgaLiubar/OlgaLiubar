@@ -22,3 +22,7 @@
 Telegram: @olgaliubar89
 
 FB: facebook.com/olga.lubar/
+<br />
+<br />
+##### Основной стек:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaLiubar&theme=default)
