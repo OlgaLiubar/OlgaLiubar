@@ -1,7 +1,7 @@
 ### Hi, My name is Olga! 👋
 
 
-💻 💚 &nbsp; I am a frontend developer based in Belgrade, Serbia.
+💻 💚 &nbsp; I am a frontend developer based in Saint-Petersburg, Russia.
 
 ##### Contact information:
 Email: olgaliubar@gmail.com
